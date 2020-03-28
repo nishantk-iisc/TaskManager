@@ -1,8 +1,7 @@
 # Customised Task Manager
-
-# In .NET Technology
-# Using C# and Window Forms
-
+    In .NET Technology.
+    Using C# and Window Forms.
+	
 # TASK MANAGER FEATURES
     • Displays all processes running in your system.
     • Allows you to add and remove any process on your local machine.
